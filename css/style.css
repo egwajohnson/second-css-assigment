@@ -60,7 +60,7 @@ img {
     overflow: clip;
 }
 #img-div{
-    background-image: url("../image/1.jpg");
+    background-image: url("../1.jpg");
     background-blend-mode: overlay;
     background-size: cover;
     background-color: rgb(124, 21, 21);
